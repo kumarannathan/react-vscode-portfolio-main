@@ -2,11 +2,9 @@
 
 
 **Web Designer & Developer** @ [EinNel Technologies](https://einnel.com/) _(Jun 2024 - September 2024)_
+- Designed 4 dashboards featuring important KPI's for drivers, fleet operators, OEM's, and other general automotive use.
+- Utilized Figma for guidiing design goals, and React.js for development in order to link with an in house API to link the dashboards to AI analytics. 
 
-- Developed high-engagement AR Lenses, achieving 20,000+ views and 500+ shares, with a 25% increase in retention metrics.
-- Designed and implemented 5 AR and Mixed Reality experiences using JavaScript, SnapAPI, and Blender within Lens Studio.
-- Utilized 3D World Objects / VFX emitters for real-time interaction, AR position changes, and filter modulation with Perspective and  Orthographic cameras.
-- Conducted market research across Entertainment, Sports, and Tech using SQL, Tableau, Excel, and Python, acquiring proficiency in advanced techniques and methodologies in AR design.
 
 - _**Technologies used:**_ Figma, React
 
