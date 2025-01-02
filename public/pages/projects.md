@@ -1,8 +1,25 @@
+
+# 🎮 Game Development projects
+
+## [Soul of the Forest](https://www.figma.com/proto/1qvQGRKFEh9q6tPfYgI5lt/Driver-Drowsiness?node-id=0-1&t=jk29zQaPfwPR1kHV-1) 🔗
+- Directed the UI/UX department for [Soul of the Forest](https://store.steampowered.com/app/2880650/Soul_of_the_Forest/) by establishing development timelines utilizing Jira, Confluence, and Git for version control.
+- Led comprehensive playtesting and iterative design improvements throughout the project lifecycle, utilizing Jira for task management, Agile methodologies for development, and Confluence for documentation and reporting
+- Developed and implemented menu designs and functionality utilizing Figma, C# Scripts, and the Unity Game Engine.
+
+- _**Technologies used:**_ Unity Game Engine, Agile, Jira, Confluence, C#, Git
+
 # 🤖 Software Engineering Projects 
 
+## [aam-digital-case-management-system](./aamdigital.pdf) 🔗
+- Improved data mapping by resolving type mismatches and increasing data import accuracy by 30% for case management.
+- Enhanced data import functionality by refactoring data import and conversion logic for entity matching across data types.
+- Utilized test automation to ensure open-source compatibility via Jasmine unit testing. 
+- Built a demo_entities.json system, enabling NGOs to generate tailored demo data for education and healthcare use cases.
+
+
 ## [visionos-football-stats-tracker-app](https://github.com/kumarannathan/VisionOS-Football-Stats-Tracker) 🔗
-- Designed and implemented a soccer tracker application utilizing **SwiftUI, XCA Football API, and the Xcode 13.4 beta.**
-- Integrated VisionOS capabilities to provide real-time interactive statistics tracking and visualization for over 400 players, 20 teams, and numerous top European soccer organizations. 
+- Engineered a comprehensive soccer statistics application leveraging **SwiftUI, XCA Football API, and Xcode 13.4 beta** to deliver a seamless user experience.
+- Harnessed VisionOS technology to create an immersive, real-time analytics platform tracking detailed statistics across 400+ players, 20 premier teams, and multiple top-tier European soccer leagues with interactive visualizations.
 
 ## [airbnb-clone](https://github.com/kumarannathan/AirBnB) 🔗
 - Engineered user-centric features like interactive search, integrated map view, user profiles, and wishlists.
@@ -41,11 +58,4 @@
 - prototype of driver analytics dash for *einnel technologies*
 - utilized for an app to keep track of driver specific ai computed analytics
 - provides KPI's for personal and broader use so that individuals can keep track of important factors for driver distraction
-
-
-
-
-
-
-
 

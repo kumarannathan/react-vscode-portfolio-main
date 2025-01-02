@@ -3,7 +3,7 @@
 - **B.S.** in Computer Science
 - **Minor** in User Experience Design
 - WolverineSoft Studio UI/UX programmer 
-- GPA: 3.5 / 4.0 
+
 
 # 📕Coursework
 
@@ -15,3 +15,5 @@
 - Web Design, Development, and Accessibility (SI 339)
 - Data Stuctures and Algorithms (EECS 281)
 - Discrete Mathematics (EECS 203)
+- Extended Reality Projects for Society (EECS 440)
+- User Interface Development (EECS 493)

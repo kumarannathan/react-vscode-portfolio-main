@@ -3,7 +3,6 @@
 ## Summary
 
 An innovative software developer student at <span style="color: #FBEC5D" >the University of Michigan </span> specializing in full-stack web application development and design. Proficient in building immersive AR experiences and scalable web solutions, with expertise in **JavaScript**, **C++**, **C#**, **Swift**, and **SQL**. Strong focus on enhancing user engagement through thoughtful UI/UX design and performance optimization across various platforms. Demonstrated ability to lead teams, manage project lifecycles, and deliver high-quality, interactive applications.
-<img src="./kumi.jpeg" alt="My Logo" width="150" align="right" style="border-radius: 35%;" />
 
 
 ## Experience
