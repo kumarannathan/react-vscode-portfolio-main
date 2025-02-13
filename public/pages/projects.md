@@ -1,12 +1,35 @@
-
 # 🎮 Game Development projects
 
-## [Soul of the Forest](https://store.steampowered.com/app/2880650/Soul_of_the_Forest/) 🔗
+## [job-simulation-VR | Feb 2025](https://youtu.be/EPbTNA2fU0g"s) 🔗  
+
+- Engineered NPCs with dynamic behaviors, including head-tracking, movement, and dialogue, creating an immersive, responsive VR environment.  
+- Designed a "Severance"-inspired Macrodata Refinement Room, where users roleplay as office workers, interact with vintage computers, and experience an eerie corporate simulation.  
+- Developed a suite of interactable components, such as grabbable trash that can be disposed of in bins.  
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <a href="https://youtu.be/EPbTNA2fU0g">
+      <img src="https://img.youtube.com/vi/EPbTNA2fU0g/maxresdefault.jpg" alt="Watch Job Simulation VR Demo 1" width="300">
+    </a>
+    <p><em>Job Simulation VR Demo </em></p>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://youtu.be/kZQmX16voqs">
+      <img src="https://img.youtube.com/vi/kZQmX16voqs/maxresdefault.jpg" alt="Watch Job Simulation VR Demo 2" width="300">
+    </a>
+    <p><em>Severance VR Demo </em></p>
+  </div>
+</div>  
+
+**_Technologies used:_** Unreal Engine 5, Blueprints, AI NPC Behavior, VR Interaction, Environmental Storytelling, Game Audio Design  
+
+
+<!-- ## [Soul of the Forest](https://store.steampowered.com/app/2880650/Soul_of_the_Forest/) 🔗
 - Directed the UI/UX department for [Soul of the Forest](https://store.steampowered.com/app/2880650/Soul_of_the_Forest/) by establishing development timelines utilizing Jira, Confluence, and Git for version control.
 - Led comprehensive playtesting and iterative design improvements throughout the project lifecycle, utilizing Jira for task management, Agile methodologies for development, and Confluence for documentation and reporting
 - Developed and implemented menu designs and functionality utilizing Figma, C# Scripts, and the Unity Game Engine.
 
-- _**Technologies used:**_ Unity Game Engine, Agile, Jira, Confluence, C#, Git
+- _**Technologies used:**_ Unity Game Engine, Agile, Jira, Confluence, C#, Git -->
 
 # 🤖 Software Engineering Projects 
 
@@ -26,8 +49,8 @@
 - _**Technologies used:**_ Jasmine, JavaScript, JSON, Python, C
 
 ## [automated-test-suite-generation-for-coverage-analysis | October 2024](./aamdigital.pdf) 🔗
-- Libpng + AFL (Fuzz Testing in C): Generated a diverse PNG test suite with AFL for libpng’s pngtest. Analyzed coverage with gcov, compared manually written vs. fuzz-generated tests, and visualized coverage growth through scatterplots.
-- Jsoup + EvoSuite (Unit Test Generation in Java): Used EvoSuite to automatically generate unit tests for jsoup, comparing branch coverage with manually written tests. Evaluated EvoSuite’s strengths in coverage and limitations in test maintainability.
+- Libpng + AFL (Fuzz Testing in C): Generated a diverse PNG test suite with AFL for libpng's pngtest. Analyzed coverage with gcov, compared manually written vs. fuzz-generated tests, and visualized coverage growth through scatterplots.
+- Jsoup + EvoSuite (Unit Test Generation in Java): Used EvoSuite to automatically generate unit tests for jsoup, comparing branch coverage with manually written tests. Evaluated EvoSuite's strengths in coverage and limitations in test maintainability.
 - Key Takeaways: Fuzz testing (AFL) excelled at uncovering edge cases, while EvoSuite demonstrated strong structural coverage but lacked real-world use case understanding. The project provided practical insights into when to use fuzz testing vs. automated unit testing.
 
 - _**Technologies used:**_ American Fuzzy Lop (AFL), EvoSuite, gcov, JUnit, Java, C
@@ -40,7 +63,7 @@
 
 ## [airbnb-clone](https://github.com/kumarannathan/AirBnB) 🔗
 - Engineered user-centric features like interactive search, integrated map view, user profiles, and wishlists.
-- Built a feature-rich Airbnb clone app leveraging **SwiftUI’s framework and async/await paradigms for data.**
+- Built a feature-rich Airbnb clone app leveraging **SwiftUI's framework and async/await paradigms for data.**
 
 - _**Technologies used:**_ SwiftUI, async/await, Xcode 13.4 beta
 
