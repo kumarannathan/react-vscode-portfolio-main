@@ -54,9 +54,25 @@
 
 # 🤖 Software Engineering Projects 
 
+## [DanceAR Fitness | April 2025](https://dance-ar-440.netlify.app/) 🔗
+- Developed an innovative web application combining augmented reality with dance fitness, featuring real-time pose detection and scoring.
+- Implemented privacy-focused design with local video processing and server-side benchmark storage.
+- Engineered a comprehensive battle system allowing users to challenge friends in dance competitions.
+- Integrated MediaPipe WebAssembly for accurate pose tracking and real-time feedback.
+
+- _**Technologies used:**_ React.js, TypeScript, Material-UI, Firebase, MediaPipe WebAssembly
+
+## [FlashmindAI - AI-Powered Learning Assistant | March 2025]() 🔗
+- Developed a modern web application enhancing learning through AI-powered study tools including flashcards, notes, and quizzes.
+- Implemented secure authentication with Firebase and efficient data management using Prisma ORM.
+- Engineered an interactive dashboard with personalized study tools and progress tracking.
+- Integrated OpenAI API for intelligent study assistance and quiz generation.
+
+- _**Technologies used:**_ Next.js 15, React 19, TypeScript, Tailwind CSS, Firebase, Prisma ORM, OpenAI API, Zustand
+
 ## [high-coverage-software-testing-for-complex-systems | December 2024]() 🔗
 - Engineered robust test suites for an AVL Tree implementation (Python), a PNG processing tool (C), and a data visualization library (Java), optimizing statement, branch, and mutation coverage.
--Leveraged industry-standard testing tools such as coverage.py, gcov, and Cobertura to systematically measure and improve test effectiveness.
+- Leveraged industry-standard testing tools such as coverage.py, gcov, and Cobertura to systematically measure and improve test effectiveness.
 - Applied diverse testing methodologies, including white-box testing, mutation testing, and automated test generation, to identify edge cases and improve software reliability.
 
 - _**Technologies used:**_ Python, C, Java, Cobertura, White-Box Testing, Mutation Testing, Automated Test Generation
