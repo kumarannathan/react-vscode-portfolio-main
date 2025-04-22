@@ -1,5 +1,26 @@
 # 🎮 Game Development projects
 
+## [AnnArborGo | March 2025](https://www.youtube.com/watch?v=G9SCoTpseC4) 🔗  
+
+- **Integrated Mapbox SDK** for real-world geospatial mapping, dynamically rendering 3D landmarks at 5+ notable Ann Arbor locations using coordinate-based positioning.  
+- **Engineered dual-mode AR experience** with seamless scene transitions between exploration/interaction modes, complete with context-aware music and an inventory system tracking seed quantities.  
+- **Developed AR seed planting mechanics** using spatial tracking, enabling persistent tree visualization across scenes with randomized positional offsets to prevent object collision.  
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <a href="https://youtu.be/EPbTNA2fU0g">
+      <img src="https://img.youtube.com/vi/EPbTNA2fU0g/maxresdefault.jpg" alt="AnnArborGo Exploration Mode" width="300">
+    </a>
+    <p><em>Exploration Mode Demo</em></p>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://youtu.be/kZQmX16voqs">
+      <img src="https://img.youtube.com/vi/kZQmX16voqs/maxresdefault.jpg" alt="AnnArborGo Interaction Mode" width="300">
+    </a>
+    <p><em>AR Planting Demo</em></p>
+  </div>
+</div>
+
 ## [job-simulation-VR | Feb 2025](https://youtu.be/EPbTNA2fU0g"s) 🔗  
 
 - Engineered NPCs with dynamic behaviors, including head-tracking, movement, and dialogue, creating an immersive, responsive VR environment.  
