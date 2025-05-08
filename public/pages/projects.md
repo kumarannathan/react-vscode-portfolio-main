@@ -54,13 +54,25 @@
 
 # 🤖 Software Engineering Projects 
 
+## [StudyAI: AI-Powered Study Assistant | March 2025]() 🔗
+- Constructed a comprehensive study platform using Next.js, TypeScript, and Prisma ORM that leverages OpenAI, DeepL, and Gemini API's to generate flashcards, quizzes, and notes, reducing study preparation time.
+- Implemented secure OAuth authentication with NextAuth and JWT, supporting multiple providers.
+
+- _**Technologies used:**_ Next.js, TypeScript, Prisma, API, React.js
+
+## [Custom Object Detection for Sports Analytics | Feb 2025]() 🔗
+- Built an end-to-end computer vision pipeline to detect, track, and analyze player movements, ball speed, court key points, and team formations using custom-trained YOLOv8/V3 and CNN models.
+- Engineered real-time object tracking and court mapping with multi-model fusion, interpolation smoothing, and PyTorch-based CNN key point detection, enabling distance, speed, and in/out estimation.
+
+- _**Technologies used:**_ YOLOv8, OpenCV, PyTorch, Roboflow
+
 ## [DanceAR Fitness | April 2025](https://dance-ar-440.netlify.app/) 🔗
 - Developed an innovative web application combining augmented reality with dance fitness, featuring real-time pose detection and scoring.
 - Implemented privacy-focused design with local video processing and server-side benchmark storage.
 - Engineered a comprehensive battle system allowing users to challenge friends in dance competitions.
 - Integrated MediaPipe WebAssembly for accurate pose tracking and real-time feedback.
 
-- _**Technologies used:**_ React.js, TypeScript, Material-UI, Firebase, MediaPipe WebAssembly
+- _**Technologies used:**_ React, TypeScript, Firebase, MediaPipe, WebRTC
 
 ## [FlashmindAI - AI-Powered Learning Assistant | March 2025]() 🔗
 - Developed a modern web application enhancing learning through AI-powered study tools including flashcards, notes, and quizzes.
